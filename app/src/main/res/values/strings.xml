@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Inventory Tracker</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_product_price">Price</string>
+    <string name="unit_item_price">USD</string>
+    <string name="hint_product_supplier">Supplier Name</string>
+    <string name="hint_product_supplier_email">Supplier Email</string>
+    <string name="hint_product_quantity">Quantity</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="editor_activity_title_new_product">New Product</string>
+    <string name="error_inserting">Error inserting</string>
+    <string name="product_saved">Product saved successfully</string>
+    <string name="initial_quantity">0</string>
+    <string name="editor_activity_title_edit_product">Edit Product</string>
+    <string name="successful_update">Product successfully updated</string>
+    <string name="failed_update">Update failed</string>
+    <string name="successful_deletion">Product successfully deleted</string>
+    <string name="failed_deletion">Delete failed</string>
+    <string name="quantity_to_order">Quantity</string>
+    <string name="order_more_button">Order more</string>
+    <string name="no_email_client">No email client found</string>
+    <string name="empty_view_title_text">Nothing in here... </string>
+    <string name="empty_view_subtitle_text">Get started by adding a product.</string>
+    <string name="name_string_empty">Error: Product Name cannot be empty</string>
+    <string name="supplier_name_string_empty">Error: Supplier Name cannot be empty</string>
+    <string name="supplier_email_string_empty">Error: Supplier Email cannot be empty</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>
