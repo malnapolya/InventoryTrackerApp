@@ -114,22 +114,5 @@ public class ProductCursorAdapter extends CursorAdapter {
                 }
             }
         });
-//        final int position = cursor.getPosition();
-//        soldBbutton.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View v) {
-//                cursor.moveToPosition(position);
-//                // Decrease quantity by 1 and modify it on the screen
-//                int currentQuantity = cursor.getInt(cursor.getColumnIndex(ProductEntry.COLUMN_QUANTITY));
-//                if (currentQuantity<=0) {
-//                    Toast.makeText(v.getContext(), "No product available \n Please place order", Toast.LENGTH_SHORT).show();
-//                    return;
-//                } else {
-//                    currentQuantity--;
-//                }
-//
-//                // TODO: Also modify it in the database
-//            }
-//        });
     }
 }
